@@ -162,3 +162,11 @@ cython_debug/
 mlruns
 .vscode
 .ruff_cache
+
+# Entornos virtuales de Python
+dvc-env/
+.venv/
+venv/
+
+# Variables de entorno y credenciales
+.env
